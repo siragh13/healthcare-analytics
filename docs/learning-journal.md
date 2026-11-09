@@ -17,4 +17,5 @@ Completed:
 - git add prepares files for a commit.
 - git commit saves a snapshot of my changes.
 - git status shows the current state of my repository.
-- Installed and verified pytest 9.2.0 using Python. 
+- Installed and verified pytest 9.2.0 using Python.
+- Created and successfully ran my first automated Python test using pytest. 
